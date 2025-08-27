@@ -16,33 +16,39 @@
 - 📫 Reach me at: **ronakvarshney7100@gmail.com**  
 
 ---
-
+/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  
+![SQL](https://img.shields.io/badge/-SQL-
 ## 💻 Tech Stack
+<!-- Languages row -->
+<div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff" alt="Python"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff" alt="C++"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS3"/>
+</div>
 
-### 🧠 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)  
+<!-- Frontend row -->
+<div style="display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; align-items:center;">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" alt="React"/>
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=fff" alt="Redux Toolkit"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS"/>
+</div>
 
-### 💻 Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)  
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=fff)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)  
+<!-- Backend row -->
+<div style="display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; align-items:center;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/-Passport.js-34E27A?style=flat" alt="Passport.js"/>
+  <img src="https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens" alt="JWT"/>
+</div>
 
-### 🛠 Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)  
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)  
-![Passport.js](https://img.shields.io/badge/-Passport.js-34E27A?style=flat)  
-![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens)  
 
 ### 🗄 Database  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=fff)  
+![PostgreSQL](https://img.shields.io/badge4479A1?style=flat&logo=mysql&logoColor=fff)  
 
 ### 📘 CS Concepts  
 DSA • DBMS • CN • OOPS  
