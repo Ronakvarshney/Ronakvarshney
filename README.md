@@ -49,8 +49,19 @@
   <img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=jsonwebtokens" height="35"/>
 </div>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge4479A1?style=flat&logo=mysql&logoColor=fff)  
+### 🗄 Databases  
+<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff" height="35"/>
+</div>
+
+<!-- Animated databases typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=MongoDB+%F0%9F%93%81;PostgreSQL+%E2%9C%A8;MySQL+%F0%9F%92%BE;Redis+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 
 ### 📘 CS Concepts  
 DSA • DBMS • CN • OOPS  
