@@ -15,9 +15,7 @@
 - 💬 Ask me about **Full Stack**, **React**, **Node.js**, **JWT**, **MongoDB**, or **clean architecture** in full-stack apps  
 - 📫 Reach me at: **ronakvarshney7100@gmail.com**  
 
----
-/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  
-![SQL](https://img.shields.io/badge/-SQL-
+
 ## 💻 Tech Stack
 <!-- Languages row -->
 
