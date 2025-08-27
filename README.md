@@ -20,33 +20,37 @@
 ![SQL](https://img.shields.io/badge/-SQL-
 ## 💻 Tech Stack
 <!-- Languages row -->
-<div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff" alt="Python"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff" alt="C++"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS3"/>
+
+### 🧠 Languages  
+<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" height="35"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="35"/>
 </div>
 
-<!-- Frontend row -->
-<div style="display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; align-items:center;">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" alt="React"/>
-  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=fff" alt="Redux Toolkit"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS"/>
+---
+
+### 💻 Frontend  
+<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" height="35"/>
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs" height="35"/>
+  <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" height="35"/>
 </div>
 
-<!-- Backend row -->
-<div style="display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; align-items:center;">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/-Passport.js-34E27A?style=flat" alt="Passport.js"/>
-  <img src="https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens" alt="JWT"/>
+---
+
+### 🛠 Backend  
+<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express" height="35"/>
+  <img src="https://img.shields.io/badge/-Passport.js-34E27A?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=jsonwebtokens" height="35"/>
 </div>
 
-
-### 🗄 Database  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
 ![PostgreSQL](https://img.shields.io/badge4479A1?style=flat&logo=mysql&logoColor=fff)  
 
