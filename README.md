@@ -1,139 +1,85 @@
-# 👋 Hello, I'm Ronak Varshney
+👋 Hi, I'm Ronak Varshney
 
-**`Full-Stack Web Developer | MERN Stack Specialist | DSA Enthusiast | Open Minded`**
+Full-Stack Web Developer | MERN Stack Specialist | AI-Integrated Systems | DSA Enthusiast
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/9520b3035ba1ad3cad4227add19202d146cda832282317641b2a7718cf564634/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d3232266475726174696f6e3d3430303026636f6c6f723d3336424346372663656e7465723d74727565267643656e7465723d747275652677696474683d373530266865696768743d3530266c696e65733d46756c6c2d537461636b2b5765622b446576656c6f7065723b41492b616e642b5265616c2d54696d652b53797374656d2b4578706c6f7265723b3430302532422b4453412b50726f626c656d732b536f6c7665643b4861636b6174686f6e2b57696e6e65722b2546302539462538462538363b4f70656e2b536f757263652b436f6e7472696275746f72" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+Next.js+%7C+AI+Systems;Problem+Solver+%7C+Clean+Architecture;Open+Source+Contributor" alt="Typing SVG" /> </p>
+🧠 About Me
+I am a final-year Computer Science undergraduate focused on building scalable, production-ready web applications and AI-integrated platforms. I enjoy working close to system internals—authentication, architecture, real-time communication, and data flow.
 
----
+🔭 Building full-stack, real-time, and AI-powered systems
+🌱 Exploring LangChain, Next.js Agent Workflows, FastAPI, and LLM-based applications
+🧩 Strong interest in problem solving, system design, and clean backend architecture
+🏆 2nd Runner-up – Development Hackathon 2025
+🥉 3rd Place – Group Hackathon 2025
+📫 Email: ronakvarshney7100@gmail.com
 
-## 🧠 About Me  
-- 🔭 Currently building **scalable web apps** and **real-time systems** using Full Stack + MERN Stack + Problem Solving  
-- 🌱 Exploring **AI-integrated platforms**, **game logic**, **programming logic**, and **authentication systems**  
-- 🏆 **2nd Runner-up** – 2025 Development Hackathon | **Bronze** – 2025 Group Hackathon  
-- 💬 Ask me about **Full Stack**, **React**, **Node.js**, **JWT**, **MongoDB**, or **clean architecture** in full-stack apps  
-- 📫 Reach me at: **ronakvarshney7100@gmail.com**  
+💻 Technical Skill Set
+🧠 Programming Languages
+<div> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/> </div>
+🎨 Frontend Development
+<div> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/> <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff"/> </div>
+🛠 Backend & APIs
+<div> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff"/> <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff"/> <img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge"/> </div>
+🤖 AI / LLM Engineering
+<div> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Next.js_Agent_Workflows-000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google"/> </div>
 
+Prompt chaining & tool calling
+Retrieval-Augmented Generation (RAG)
+Agent-based task execution
+AI-powered MCQs & reasoning systems
 
-## 💻 Tech Stack
-<!-- Languages row -->
+🗄 Databases & Caching
+<div> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff"/> </div>
+📘 Core CS Concepts
+Data Structures & Algorithms
+Object-Oriented Programming
 
-### 🧠 Languages  
-<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" height="35"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="35"/>
-</div>
+DBMS
 
----
+Computer Networks
+System Design (Basics)
+🧰 Tools & Platforms
+Git & GitHub
+Postman
+VS Code
+Visual Studio
 
-### 💻 Frontend  
-<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" height="35"/>
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs" height="35"/>
-  <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" height="35"/>
-</div>
+🚀 Projects
+Project	Stack	Key Highlights
+CampustoCareer	MERN, Socket.IO, AI	Scalable student-help platform with AI integration
+CodeCanvas A real time code collaboration.
+Campus Connect	MERN, Gemini API	🥉 Hackathon winner, real-time college ecosystem
+Sorting Visualizer	React	Visual representation of sorting algorithms
+MindEase	MERN, AI	AI-powered mental health platform
+Airport Management System	MERN, JWT	Real-time booking, staff & passenger management
 
----
+🏆 Achievements
+🥉 3rd Place – Group Hackathon 2025 (15+ teams)
+🏆 2nd Runner-up – Development Hackathon 2025
+🏅 Top 4 / 400+ teams – AuraFlix Hackathon
+💻 GSSOC ’24 & ’25 Open Source Contributor
 
-### 🛠 Backend  
-<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express" height="35"/>
-  <img src="https://img.shields.io/badge/-Passport.js-34E27A?style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=jsonwebtokens" height="35"/>
-</div>
+🎓 Education
+B.Tech – Computer Science & Engineering
+Aligarh College of Engineering & Technology (2022–2026)
+GPA: 8.66 / 10
+12th (PCM): 91.4%
+Dharam Samaj Bal Mandir, Aligarh
 
-### 🗄 Databases  
-<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff" height="35"/>
-</div>
-
-<!-- Animated databases typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=MongoDB+%F0%9F%93%81;PostgreSQL+%E2%9C%A8;MySQL+%F0%9F%92%BE;Redis+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-
-### 📘 CS Concepts  
-DSA • DBMS • CN • OOPS  
-
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff)  
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=fff)  
-
----
-
-## 🚀 Projects
-
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| **CampustoCareer** | MERN, Socket.IO, JWT, Tailwind CSS | Scalable full-stack Students Helping website integrate with AI , post interactions, and secure user management |
-| **Campus Connect** | MERN, Gemini API, Socket.IO | 🚀 3rd place in 2025 Group Hackathon – full-fledged college platform |
-| **Sorting Visualizer** | React, Async JS | Visual animations for all sorting algorithms |
-| **MindEase** | MERN, Problem Solving | AI Powered Mental Health Platform |
-| **Airport Management System** | MERN, JWT, Bcrypt | Secure, airport management includes passengers tickets , seats bookings , staffs  with real-time features |
-
----
-
-## 🏆 Achievements
-
-- 🥉 **3rd Place – Group Hackathon 2025**  
-  Competed against **15+ teams** and built Campus Connect with:  
-  - 💬 Real-time chat via Socket.IO  
-  - 📚 Role-based dashboards  
-  - 🧠 AI-powered MCQ testing (Gemini API)  
-  - 📣 Live announcements & placements module  
-
-- 🏅 **Certificate of Excellence – AuraFlix Hackathon**  
-  Ranked **Top 4 out of 400+ teams**, recognized for creativity & code quality  
-
-- 💻 **GSSOC '24 Contributor** – Participated in open-source projects during GirlScript Summer of Code
-- 💻 **GSSOC '25 Contributor** – Participated in open-source projects during GirlScript Summer of Code  
+📊 GitHub Analytics
+Replace your-username with RonakVarshney (or your actual GitHub username)
 
 
----
 
-## 🎓 Education
 
-- **Bachelor of Technology – Computer Science & Engineering**  
-  Aligarh College Of Engineering And Technology (2022 – 2026)  
-  📍 Aligarh, UP | GPA: **8.66 / 10**
 
-- **Intermediate + High School (PCM)**  
-  Dharam Samaj Bal Mandir, Aligarh – **91.4% in 12th board**
 
----
+🎯 Hobbies
+Cricket • Badminton
 
-## 📊 GitHub Stats
+📌 Connect With Me
+LinkedIn: https://linkedin.com/in/your-link
+Portfolio: https://your-portfolio-link.com
+Email: ronakvarshney7100@gmail.com
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)  
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)  
-
----
-
-## 🎯 Hobbies
-Cricket | Badminton
-
----
-
-## 📌 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=fff)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:ronakvarshney7100@gmail.com)  
-
----
-
-> *"Passionate about building impactful systems with clean code and real-world logic."*
+“I build systems that are clean, scalable, and grounded in real-world problem solving.”
