@@ -81,28 +81,7 @@ const developer = {
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronakvarshney&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronakvarshney&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronakvarshney&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ronakvarshney&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
