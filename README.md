@@ -31,9 +31,11 @@ const developer = {
 ```
 
 - 🌱 Exploring **LLMs, RAG pipelines & AI integrations**
+- Building AI Powered Web applications.
 - 💬 Ask me about **React, Node.js, system design**
-- 🤝 Open to **open source collabs & freelance projects**
 - ⚡ I talk to rubber ducks more than colleagues
+- Solve complex problems: 550+ DSA challenges across LeetCode & GFG
+- 🌐 Contribute to open-source projects that make a real-world impact
 
 <br clear="right"/>
 
