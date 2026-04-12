@@ -118,11 +118,11 @@ const developer = {
 
 | 🎯 Project | 📝 Description | 🛠 Stack | 🔗 |
 |---|---|---|---|
-| [**Project CodeCanvas**](https://github.com/Ronakvarshney/CodeCanvas) | Real Time Collaborative Coding Platform | [![Stars](https://img.shields.io/github/stars/Ronakvarshney/codecanvas?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/CodeCanvas) |
-| [**Project MindEase**](https://github.com/Ronakvarshney/MindEase_frontend) | AI powered Mental Health Platform | [![Stars](https://img.shields.io/github/stars/Ronakvarshney/Mindease?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/MindEase_frontend) |
-| [**Project Linkedin Automation**](https://github.com/Ronakvarshney/Linkedin-automation) |RAG Pipeline of automate Posts on Linkedin | [![Stars](https://img.shields.io/github/stars/Ronakvarshney/linkedinAutomation?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/Linkedin-automation) |
-| [**Project AI TripPlanner**](https://github.com/Ronakvarshney/AIPlanner) | AI Powered Trip Planner | [![Stars](https://img.shields.io/github/stars/Ronakvarshney/TripPlanner?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/AIPlanner) |
-| [**Project PdfTalks**](https://github.com/Ronakvarshney/rag_pipeline) | RAG Powered Backend | [![Stars](https://img.shields.io/github/stars/Ronakvarshney/project-pdfTalks?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/rag_pipeline/tree/main) |
+| [**Project CodeCanvas**](https://github.com/Ronakvarshney/CodeCanvas) | Real Time Collaborative Coding Platform | [(https://img.shields.io/github/stars/Ronakvarshney/codecanvas?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/CodeCanvas) |
+| [**Project MindEase**](https://github.com/Ronakvarshney/MindEase_frontend) | AI powered Mental Health Platform | [(https://img.shields.io/github/stars/Ronakvarshney/Mindease?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/MindEase_frontend) |
+| [**Project Linkedin Automation**](https://github.com/Ronakvarshney/Linkedin-automation) |RAG Pipeline of automate Posts on Linkedin | [(https://img.shields.io/github/stars/Ronakvarshney/linkedinAutomation?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/Linkedin-automation) |
+| [**Project AI TripPlanner**](https://github.com/Ronakvarshney/AIPlanner) | AI Powered Trip Planner | [(https://img.shields.io/github/stars/Ronakvarshney/TripPlanner?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/AIPlanner) |
+| [**Project PdfTalks**](https://github.com/Ronakvarshney/rag_pipeline) | RAG Powered Backend | [(https://img.shields.io/github/stars/Ronakvarshney/project-pdfTalks?style=flat&color=00D9FF)](https://github.com/Ronakvarshney/rag_pipeline) |
 
 </div>
 
