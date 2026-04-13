@@ -1,6 +1,4 @@
 <div align="center">
-  
-[![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:12100a,50:1a1400,100:12100a&text=RONAK%20VARSHNEY&fontColor=ffc400&fontSize=52&fontAlignY=45&desc=Full%20Stack%20Engineer%20%7C%20Product%20Builder%20%7C%20AI%20Pipelines&descColor=ff8c42&descAlignY=65&animation=twinkling&stroke=ffc400&strokeWidth=1)](https://github.com/Ronakvarshney)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Ronak+Varshney+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Product+Builder+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Django;Building+AI-Integrated+Platforms+%F0%9F%A4%96;Aspiring+ML+Engineer+%7C+600%2B+DSA+Solved+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -21,28 +19,27 @@
 ```typescript
 const ronak = {
   name:    "Ronak Varshney",
-  role:    ["Full Stack Engineer", "Product Builder",
-            "Aspiring ML Engineer"],
-  company: "Artizence (SDE-1, 8 months)",
-  email:   "nsaxenacse@gmail.com",
+  role:    ["Full Stack Engineer", "Product Builder"],
+  company: "The Squirrel",
+  email:   "ronakvarshney7100@gmail.com",
 
   frontend:  ["React.js", "Next.js", "React Native", "Tailwind"],
-  backend:   ["Node.js", "Express", "Django", "NestJS"],
-  ai:        ["AI Pipelines", "Resume Analysis", "Safety Detection",
+  backend:   ["Node.js", "Express",  "NestJS"],
+  ai:        ["AI Pipelines", "Langchain", "LangGraph",
               "Recommendation Systems"],
   databases: ["PostgreSQL", "MongoDB", "Redis", "Prisma"],
 
-  dsa:          "600+ problems (LeetCode + GFG) 🔢",
+  dsa:          "500+ problems (LeetCode + GFG) 🔢",
   achievements: ["🥉 2nd Runner-up — 2025 Dev Hackathon",
                  "🥉 Bronze — 2025 Group Hackathon"],
   motto:        "Learn. Build. Ship. Repeat. 🚀",
 };
 ```
 
-- 🏢 **SDE-1 @ Artizence** — Built auth, RBAC dashboards, AI interview pipelines & 65+ server actions
+- 🏢 **Full StackDeveloper Intern @The Squirrel** — Built auth, RBAC dashboards, AI interview pipelines 
 - 🤖 Building **AI-integrated platforms** — resume analysis, safety detection, recommendation engines
 - 🌱 Exploring **Agentic AI**, LLMs, RAG pipelines & modern web tech
-- 🏆 **2x Hackathon winner** · **600+ DSA problems** solved
+- 🏆 **2x Hackathon winner** · **500+ DSA problems** solved
 - 💬 Ask me about **system design, full-stack architecture, or AI integrations**
 - 📫 Reach me at **nsaxenacse@gmail.com**
 
@@ -58,14 +55,12 @@ const ronak = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -78,12 +73,7 @@ const ronak = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 🗄️ Databases & ORM
@@ -93,8 +83,7 @@ const ronak = {
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342B?style=for-the-badge&logo=convex&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+
 
 ### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -123,36 +112,23 @@ const ronak = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ronakvarshney&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronakvarshney&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | 🎯 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
-| [**🔢 NumScript**](https://github.com/Ronakvarshney/NumScript) | High-performance numerical computing lib — 200+ utilities, ~20 data structures, C++-like STL in TS | TypeScript · C++ |
-| [**🎯 HireReady**](https://github.com/Ronakvarshney/HireReady) | AI-powered interview prep — mock interviews, live coding, WebRTC sessions, PDF reports | Next.js · WebRTC · AI |
-| [**🌐 Stack Network**](https://github.com/Ronakvarshney/StackNetwork) | AI job matching & social platform — AI profile rating, content authenticity, real-time chat | React · Node.js · AI |
-| [**📄 Docs Clone**](https://github.com/Ronakvarshney/DocsClone) | Real-time collaborative editor — rich text, live collab, RBAC org system | Tiptap · Convex · Clerk |
-| [**🎓 CampusConnect**](https://github.com/Ronakvarshney/CampusConnect) | Campus management platform — classrooms, tests, real-time chat, placement module | Next.js · PostgreSQL |
-| [**🚨 QuickSos**](https://github.com/Ronakvarshney/QuickSos) | Women safety web app — SOS alerts, threat zones, voice triggers, safe navigation | React · Node.js · Maps |
-| [**🍔 FlavorFlow**](https://github.com/Ronakvarshney/FlavorFlow) | AI food ordering — meal plans, nutrition insights, AI food verification | Next.js · AI · MongoDB |
-| [**🎮 Gaming Platform**](https://github.com/Ronakvarshney/GamingPlatform) | Multi-game full-stack platform — 2048, Blackjack & more, JWT auth, secure backend | React · Node.js · MongoDB |
+| [**💻 CodeCanvas**](https://github.com/Ronakvarshney/codecanvas) | Real-time collaborative coding platform — live code editing, multi-user sessions | React · Node.js · WebSockets |
+| [**🧠 MindEase**](https://github.com/Ronakvarshney/Mindease) | AI-powered mental health platform — mood tracking, AI therapy guidance | Next.js · AI · MongoDB |
+| [**🔗 LinkedIn Automation**](https://github.com/Ronakvarshney/linkedinAutomation) | RAG pipeline to auto-generate & post content on LinkedIn | Python · LangChain · RAG |
+| [**✈️ AI TripPlanner**](https://github.com/Ronakvarshney/TripPlanner) | AI-powered trip planner — smart itineraries, destination insights | Next.js · AI · Maps API |
+| [**📄 PdfTalks**](https://github.com/Ronakvarshney/project-pdfTalks) | RAG-powered backend — chat with any PDF using AI | Python · LangChain · RAG |
+| [**🔢 NumScript**](https://github.com/Ronakvarshney/NumScript) | High-performance numerical computing lib — 200+ utilities, C++-like STL in TS | TypeScript · C++ |
+| [**🎓 CampusToCareer**](https://github.com/Ronakvarshney/CampustoCareer) | Campus to career transition platform — placement prep & job tracking | React · Node.js |
+| [**🏋️ Gym App**](https://github.com/Ronakvarshney/Gym-mern-stack) | Full-stack gym management app — workouts, memberships, tracking | MongoDB · Express · React · Node.js |
+| [**📊 Sorting Visualizer**](https://github.com/Ronakvarshney/SortingAnalysier) | Interactive sorting algorithm visualizer — real-time animation & comparison | JavaScript · React |
+| [**✈️ Airport Management**](https://github.com/Ronakvarshney/Airport-Mangement-System) | Airport management system — flights, bookings, admin dashboard | Java · MySQL |
+| [**🎮 2048 Game**](https://github.com/Ronakvarshney/2048-Game) | Classic 2048 puzzle game — smooth animations, score tracking | JavaScript · HTML · CSS |
 
 </div>
 
@@ -166,9 +142,7 @@ const ronak = {
 |---|---|
 | 🥉 2nd Runner-up — Development Hackathon | 2025 |
 | 🥉 Bronze — Group Hackathon | 2025 |
-| 💻 600+ DSA Problems — LeetCode & GFG | Ongoing |
-| 🤖 65+ Server Actions in Production | @ Artizence |
-| 📱 React Native (Expo) Mobile App in Production | @ Artizence |
+| 💻 500+ DSA Problems — LeetCode & GFG | Ongoing |
 
 </div>
 
@@ -192,7 +166,7 @@ const ronak = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ronakvarshney.dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ronakvarshney)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ronakvarshney)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronakvarshney7100@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsaxenacse@gmail.com)
 
 <br/>
 
