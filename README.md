@@ -1,6 +1,7 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0a0f,100:0d1b2a&text=RONAK%20VARSHNEY&fontColor=00d9ff&fontSize=52&fontAlignY=45&desc=Full%20Stack%20Engineer%20%7C%20Product%20Builder%20%7C%20AI%20Pipelines&descAlignY=65&animation=twinkling"/>
+<img width="1440" height="600" alt="image" src="https://github.com/user-attachments/assets/69193213-178c-4742-8f26-8c040fd89edc" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Ronak+Varshney+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Product+Builder+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Django;Building+AI-Integrated+Platforms+%F0%9F%A4%96;Aspiring+ML+Engineer+%7C+600%2B+DSA+Solved+%F0%9F%94%A5)](https://git.io/typing-svg)
 
