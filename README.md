@@ -36,12 +36,11 @@ const ronak = {
 };
 ```
 
-- 🏢 **Full StackDeveloper Intern @The Squirrel** — Built auth, RBAC dashboards, AI interview pipelines 
-- 🤖 Building **AI-integrated platforms** — resume analysis, safety detection, recommendation engines
+- 🏢 **Full StackDeveloper Intern @The Squirrel** — Build Fullstack projects, AI pipelines 
 - 🌱 Exploring **Agentic AI**, LLMs, RAG pipelines & modern web tech
 - 🏆 **2x Hackathon winner** · **500+ DSA problems** solved
 - 💬 Ask me about **system design, full-stack architecture, or AI integrations**
-- 📫 Reach me at **nsaxenacse@gmail.com**
+- 📫 Reach me at **ronakvarshney7100@gmail.com**
 
 <br clear="right"/>
 
