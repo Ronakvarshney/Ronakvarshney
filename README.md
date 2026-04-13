@@ -110,7 +110,6 @@ const ronak = {
 | [**🔗 LinkedIn Automation**](https://github.com/Ronakvarshney/linkedinAutomation) | RAG pipeline to auto-generate & post content on LinkedIn | Python · LangChain · RAG |
 | [**✈️ AI TripPlanner**](https://github.com/Ronakvarshney/TripPlanner) | AI-powered trip planner — smart itineraries, destination insights | Next.js · AI · Maps API |
 | [**📄 PdfTalks**](https://github.com/Ronakvarshney/project-pdfTalks) | RAG-powered backend — chat with any PDF using AI | Python · LangChain · RAG |
-| [**🔢 NumScript**](https://github.com/Ronakvarshney/NumScript) | High-performance numerical computing lib — 200+ utilities, C++-like STL in TS | TypeScript · C++ |
 | [**🎓 CampusToCareer**](https://github.com/Ronakvarshney/CampustoCareer) | Campus to career transition platform — placement prep & job tracking | React · Node.js |
 | [**🏋️ Gym App**](https://github.com/Ronakvarshney/Gym-mern-stack) | Full-stack gym management app — workouts, memberships, tracking | MongoDB · Express · React · Node.js |
 | [**📊 Sorting Visualizer**](https://github.com/Ronakvarshney/SortingAnalysier) | Interactive sorting algorithm visualizer — real-time animation & comparison | JavaScript · React |
